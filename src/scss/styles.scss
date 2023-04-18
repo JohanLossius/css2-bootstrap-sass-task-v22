@@ -1,0 +1,15 @@
+@import "variables";
+@import "../../node_modules/bootstrap/scss/variables";
+
+header {
+    color: $green;
+    background-color: aqua;
+}
+
+h1 {
+    color: $orange;
+}
+
+footer {
+    color: orange;
+}
